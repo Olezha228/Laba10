@@ -1,0 +1,7 @@
+C:\labor10\labor10\bin\Debug\labor10.exe.config
+C:\labor10\labor10\bin\Debug\labor10.exe
+C:\labor10\labor10\bin\Debug\labor10.pdb
+C:\labor10\labor10\obj\Debug\labor10.csprojAssemblyReference.cache
+C:\labor10\labor10\obj\Debug\labor10.csproj.CoreCompileInputs.cache
+C:\labor10\labor10\obj\Debug\labor10.exe
+C:\labor10\labor10\obj\Debug\labor10.pdb
